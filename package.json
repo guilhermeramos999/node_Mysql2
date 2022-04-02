@@ -1,0 +1,25 @@
+{
+  "name": "node_mysql2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeramos999/node_Mysql2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeramos999/node_Mysql2/issues"
+  },
+  "homepage": "https://github.com/guilhermeramos999/node_Mysql2#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3"
+  }
+}
